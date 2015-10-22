@@ -4,3 +4,9 @@ D:\users\users\arioch\github1\Snake\Snake\bin\Debug\Snake.pdb
 D:\users\users\arioch\github1\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
 D:\users\users\arioch\github1\Snake\Snake\obj\Debug\Snake.exe
 D:\users\users\arioch\github1\Snake\Snake\obj\Debug\Snake.pdb
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\bin\Debug\Snake.exe.config
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\obj\Debug\Snake.exe
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\obj\Debug\Snake.pdb
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\bin\Debug\Snake.exe
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\bin\Debug\Snake.pdb
+D:\users\users\arioch\github1\OOP-C-Sharp.git\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
